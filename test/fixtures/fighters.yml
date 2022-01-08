@@ -1,0 +1,35 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  character: MyString
+  L5: MyString
+  M5: MyString
+  H5: MyString
+  S5: MyString
+  L2: MyString
+  M2: MyString
+  H2: MyString
+  S2: MyString
+  JL: MyString
+  JM: MyString
+  JH: MyString
+  JS: MyString
+  J2H: MyString
+  M6: MyString
+
+two:
+  character: MyString
+  L5: MyString
+  M5: MyString
+  H5: MyString
+  S5: MyString
+  L2: MyString
+  M2: MyString
+  H2: MyString
+  S2: MyString
+  JL: MyString
+  JM: MyString
+  JH: MyString
+  JS: MyString
+  J2H: MyString
+  M6: MyString
